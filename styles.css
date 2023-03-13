@@ -3,3 +3,16 @@
     align-items: center;
     text-align: center;
 }
+
+a {
+    cursor: pointer;
+}
+
+.list-with-noborder .list-group-item {
+    border: none !important;
+}
+
+.arrow-icon {
+    width: 15px;
+    margin-top: -5px;
+}
